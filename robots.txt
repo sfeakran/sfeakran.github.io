@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sfeakran.github.io/sitemap
+Sitemap: https://sfeakran.github.io/app/sitemap
+Sitemap: https://sfeakran.github.io/assets/sitemap
+Sitemap: https://sfeakran.github.io/css/sitemap
+Sitemap: https://sfeakran.github.io/includes/sitemap
+Sitemap: https://sfeakran.github.io/item/sitemap
+Sitemap: https://sfeakran.github.io/src/sitemap
